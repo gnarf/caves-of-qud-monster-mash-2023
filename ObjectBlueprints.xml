@@ -19,7 +19,7 @@
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures" />
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures:Weight" Value="1" />
   </object>
-  <object Name="Gnarf_Issachari Edler" Inherits="BaseIssachari">
+  <object Name="Gnarf_Issachari Elder" Inherits="BaseIssachari">
     <part Name="Render" DisplayName="Issachari elder" RenderString="w" Tile="gnarf/iss3.png" ColorString="&amp;Y" DetailColor="R" />
     <stat Name="Hitpoints" Value="35" />
     <stat Name="Level" Value="12" />
