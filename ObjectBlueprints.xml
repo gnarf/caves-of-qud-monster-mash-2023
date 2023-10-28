@@ -13,7 +13,7 @@
     <part Name="Render" DisplayName="Issachari water guardian" RenderString="w" Tile="gnarf/iss2.png" ColorString="&amp;Y" DetailColor="R" />
     <stat Name="Hitpoints" Value="25" />
     <stat Name="Level" Value="10" />
-    <mutation Name="FreezingRay" Level="4" />
+    <mutation Name="FreezingHands" Level="4" />
     <part Name="RandomMutations" Mental="1d1" MentalLevel="1d3" />
     <inventoryobject Blueprint="Waterskin" Number="1" />
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures" />
