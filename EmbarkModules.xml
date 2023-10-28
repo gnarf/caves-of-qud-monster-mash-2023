@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<embarkmodules>
+  <module Class="XRL.CharacterBuilds.Qud.QudPregenModule">
+    <pregens>
+      
+      <pregen Name="IssTest1" Genotype="Mutated Human" Tile="gnarf/iss1.png" Foreground="y" Detail="W" Background="k">
+        <code>H4sIAAAAAAAAC81W22rbQBB9D+QfFtFH2SiXlhLwg6qUJm1S3NikhZKHlTRI2652xV4SjPG/d1ZyohvUScBBBiPvnpkzx2dnB60PDwjxMlrAPSjNpPDOiHc8DabHwcn0/YnnV3hsGU9bAUcYEGyxQqaWg8bt325NyLp+PEHLVQku6dfN1TTKqaKJAfXJMerpD5u67xcQ0mDYdZXgk1BrKGK+mkQLTCh9clvXnjXKfBJZbqyCmQBrFOU+mduYs+QbrJbyL4iZsJzXGisxKTUUZTypw6135qXSzpFkIK8pgpyP8Y722hpqICUXtqCiEzXw8hHb1D82/qu9XNh4pFZ2lO12chvuSEOVSEGteSsPq4NDbj1CF3vadvtYlMgYtHc0cEgqjubW1p91e0G2Hbw1OUwVCMpJJIVRkrdrVLGRtMJg4FEfuKWK0QoK+tB9DX3H+eNKeG144z9X2blEo2FSWJ1wSEck7EIq9HgPevKK+HWiloqV6NYfyYQZlVvLBznJgapxqbpUihmK/UXcaEeqvUtrFndvNO9CYxSLrYExDry+uN0Tb+5aW8+tSnKqsZnOugfsLQxOsszkCHzsnIwXZowzsxoCS2mzXIB2E/NDF7rEa8Q5y0AkMEz8yTgv5QOoIfQ5k46t2Ws3pUfLRQlV90xOT7vADRSUCSay/mCP8e+Gbtx3M/bYOVEupYaFwVuLeq5kUt2bEXbR/4Q+412kl+eKfZVlSV/2RuIed4cHm3+6r+ZCdgsAAA==</code>
+        <description>
+&amp;c&#249;&amp;y Use your head! (as a primary limb in the equipment screen)
+&amp;c&#249;&amp;y Dagger skills, Agility, and Strength
+&amp;c&#249;&amp;y Raise any of the mutations you have
+&amp;c&#249;&amp;y {{W|High Damage}} melee starting build
+&amp;c&#249;&amp;y Additional preset by {{zetachrome|gnarf}}
+        </description>
+      </pregen>
+      <pregen Name="IssTest2" Genotype="Mutated Human" Tile="gnarf/iss2.png" Foreground="y" Detail="W" Background="k">
+        <code>H4sIAAAAAAAAC81W22rbQBB9D+QfFtFH2SiXlhLwg6qUJm1S3NikhZKHlTRI2652xV4SjPG/d1ZyohvUScBBBiPvnpkzx2dnB60PDwjxMlrAPSjNpPDOiHc8DabHwcn0/YnnV3hsGU9bAUcYEGyxQqaWg8bt325NyLp+PEHLVQku6dfN1TTKqaKJAfXJMerpD5u67xcQ0mDYdZXgk1BrKGK+mkQLTCh9clvXnjXKfBJZbqyCmQBrFOU+mduYs+QbrJbyL4iZsJzXGisxKTUUZTypw6135qXSzpFkIK8pgpyP8Y722hpqICUXtqCiEzXw8hHb1D82/qu9XNh4pFZ2lO12chvuSEOVSEGteSsPq4NDbj1CF3vadvtYlMgYtHc0cEgqjubW1p91e0G2Hbw1OUwVCMpJJIVRkrdrVLGRtMJg4FEfuKWK0QoK+tB9DX3H+eNKeG144z9X2blEo2FSWJ1wSEck7EIq9HgPevKK+HWiloqV6NYfyYQZlVvLBznJgapxqbpUihmK/UXcaEeqvUtrFndvNO9CYxSLrYExDry+uN0Tb+5aW8+tSnKqsZnOugfsLQxOsszkCHzsnIwXZowzsxoCS2mzXIB2E/NDF7rEa8Q5y0AkMEz8yTgv5QOoIfQ5k46t2Ws3pUfLRQlV90xOT7vADRSUCSay/mCP8e+Gbtx3M/bYOVEupYaFwVuLeq5kUt2bEXbR/4Q+412kl+eKfZVlSV/2RuIed4cHm3+6r+ZCdgsAAA==</code>
+        <description>
+&amp;c&#249;&amp;y Use your head! (as a primary limb in the equipment screen)
+&amp;c&#249;&amp;y Dagger skills, Agility, and Strength
+&amp;c&#249;&amp;y Raise any of the mutations you have
+&amp;c&#249;&amp;y {{W|High Damage}} melee starting build
+&amp;c&#249;&amp;y Additional preset by {{zetachrome|gnarf}}
+        </description>
+      </pregen>
+      <pregen Name="IssTest3" Genotype="Mutated Human" Tile="gnarf/iss3.png" Foreground="y" Detail="W" Background="k">
+        <code>H4sIAAAAAAAAC81W22rbQBB9D+QfFtFH2SiXlhLwg6qUJm1S3NikhZKHlTRI2652xV4SjPG/d1ZyohvUScBBBiPvnpkzx2dnB60PDwjxMlrAPSjNpPDOiHc8DabHwcn0/YnnV3hsGU9bAUcYEGyxQqaWg8bt325NyLp+PEHLVQku6dfN1TTKqaKJAfXJMerpD5u67xcQ0mDYdZXgk1BrKGK+mkQLTCh9clvXnjXKfBJZbqyCmQBrFOU+mduYs+QbrJbyL4iZsJzXGisxKTUUZTypw6135qXSzpFkIK8pgpyP8Y722hpqICUXtqCiEzXw8hHb1D82/qu9XNh4pFZ2lO12chvuSEOVSEGteSsPq4NDbj1CF3vadvtYlMgYtHc0cEgqjubW1p91e0G2Hbw1OUwVCMpJJIVRkrdrVLGRtMJg4FEfuKWK0QoK+tB9DX3H+eNKeG144z9X2blEo2FSWJ1wSEck7EIq9HgPevKK+HWiloqV6NYfyYQZlVvLBznJgapxqbpUihmK/UXcaEeqvUtrFndvNO9CYxSLrYExDry+uN0Tb+5aW8+tSnKqsZnOugfsLQxOsszkCHzsnIwXZowzsxoCS2mzXIB2E/NDF7rEa8Q5y0AkMEz8yTgv5QOoIfQ5k46t2Ws3pUfLRQlV90xOT7vADRSUCSay/mCP8e+Gbtx3M/bYOVEupYaFwVuLeq5kUt2bEXbR/4Q+412kl+eKfZVlSV/2RuIed4cHm3+6r+ZCdgsAAA==</code>
+        <description>
+&amp;c&#249;&amp;y Use your head! (as a primary limb in the equipment screen)
+&amp;c&#249;&amp;y Dagger skills, Agility, and Strength
+&amp;c&#249;&amp;y Raise any of the mutations you have
+&amp;c&#249;&amp;y {{W|High Damage}} melee starting build
+&amp;c&#249;&amp;y Additional preset by {{zetachrome|gnarf}}
+        </description>
+      </pregen>
+    </pregens>
+  </module>
+
+</embarkmodules>

@@ -1,0 +1,9 @@
+<populations>
+  <population Name="IssachariParty" Load="Merge">
+    <group Style="pickeach">
+      <object Chance="40" Number="1" Blueprint="Gnarf_Issachari Water Guardian" />
+      <object Chance="10" Number="1-2" Blueprint="Gnarf_Issachari Sniper" />
+      <object Chance="3" Number="1" Blueprint="Gnarf_Issachari Elder" />
+    </group>
+  </population>
+</populations>

@@ -1,0 +1,39 @@
+<objects>
+  <object Name="Gnarf_Issachari Sniper" Inherits="BaseIssachari">
+    <part Name="Render" DisplayName="Issachari sniper" RenderString="w" Tile="gnarf/iss1.png" ColorString="&amp;Y" DetailColor="R" />
+    <stat Name="Hitpoints" Value="25" />
+    <stat Name="Level" Value="10" />
+    <inventoryobject Blueprint="Sniper Rifle" Number="1" />
+    <inventoryobject Blueprint="Lead Slug" Number="8" />
+    <inventoryobject Blueprint="Dagger" Number="1" />
+    <tag Name="DynamicObjectsTable:Saltdunes_Creatures" />
+    <tag Name="DynamicObjectsTable:Saltdunes_Creatures:Weight" Value="1" />
+  </object>
+  <object Name="Gnarf_Issachari Water Guardian" Inherits="BaseIssachari">
+    <part Name="Render" DisplayName="Issachari water guardian" RenderString="w" Tile="gnarf/iss2.png" ColorString="&amp;Y" DetailColor="R" />
+    <stat Name="Hitpoints" Value="25" />
+    <stat Name="Level" Value="10" />
+    <mutation Name="FreezingRay" Level="4" />
+    <part Name="RandomMutations" Mental="1d1" MentalLevel="1d3" />
+    <inventoryobject Blueprint="Waterskin" Number="1" />
+    <tag Name="DynamicObjectsTable:Saltdunes_Creatures" />
+    <tag Name="DynamicObjectsTable:Saltdunes_Creatures:Weight" Value="1" />
+  </object>
+  <object Name="Gnarf_Issachari Edler" Inherits="BaseIssachari">
+    <part Name="Render" DisplayName="Issachari elder" RenderString="w" Tile="gnarf/iss3.png" ColorString="&amp;Y" DetailColor="R" />
+    <stat Name="Hitpoints" Value="35" />
+    <stat Name="Level" Value="12" />
+    <skill Name="Cudgel" />
+    <skill Name="Cudgel_Bludgeon" />
+    <skill Name="Cudgel_Expertise" />
+    <skill Name="Persuasion" />
+    <skill Name="Persuasion_InspiringPresence" />
+    <skill Name="Persuasion_MenacingStare" />
+    <skill Name="Persuasion_Berate" />
+    <stat Name="Ego" Boost="1" />
+    <part Name="RandomMutations" Mental="1d1" MentalLevel="1d4" />
+    <inventoryobject Blueprint="Walking Stick" Number="1" />
+    <tag Name="DynamicObjectsTable:Saltdunes_Creatures" />
+    <tag Name="DynamicObjectsTable:Saltdunes_Creatures:Weight" Value="1" />
+  </object>
+</objects>
