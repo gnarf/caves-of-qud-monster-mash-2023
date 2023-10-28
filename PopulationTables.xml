@@ -6,4 +6,10 @@
       <object Chance="3" Number="1" Blueprint="Gnarf_Issachari Elder" />
     </group>
   </population>
+  <population Name="LairOwners_Saltdunes" Load="Merge">
+    <group Name="Options" Load="Merge" Style="pickone">
+      <object Weight="2" Blueprint="Gnarf_Issachari Elder" />
+      <object Weight="2" Blueprint="Gnarf_Issachari Sniper" />
+    </group>
+  </population>
 </populations>
