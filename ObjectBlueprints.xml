@@ -3,14 +3,17 @@
     <part Name="Render" DisplayName="Issachari sniper" RenderString="w" Tile="gnarf/iss1.png" ColorString="&amp;Y" DetailColor="R" />
     <stat Name="Hitpoints" Value="25" />
     <stat Name="Level" Value="10" />
+    <part Name="Description" Short="Assiduous care and linseed oil protect the rifle from rust and salt. Moon-bright eyes trace the horizon against the tragedy of spying a dawnglider a second too late." />
     <inventoryobject Blueprint="Sniper Rifle" Number="1" />
     <inventoryobject Blueprint="Lead Slug" Number="8" />
     <inventoryobject Blueprint="Dagger" Number="1" />
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures" />
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures:Weight" Value="1" />
+    <part Name="ConversationScript" ConversationID="Gnarf_Sniper" />
   </object>
   <object Name="Gnarf_Issachari Water Guardian" Inherits="BaseIssachari">
     <part Name="Render" DisplayName="Issachari water guardian" RenderString="w" Tile="gnarf/iss2.png" ColorString="&amp;Y" DetailColor="R" />
+    <part Name="Description" Short="Crimson passementerie marks the careworn youth as the bearer of a sacred charge. =pronouns.Subjective= =verb:whisper:afterpronoun= a mnemonic older than the salt beneath =pronouns.possessive= boots." />
     <stat Name="Hitpoints" Value="25" />
     <stat Name="Level" Value="10" />
     <mutation Name="FreezingHands" Level="4" />
@@ -18,13 +21,19 @@
     <inventoryobject Blueprint="Waterskin" Number="1" />
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures" />
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures:Weight" Value="1" />
+    <part Name="ConversationScript" ConversationID="Gnarf_Water" />
   </object>
   <object Name="Gnarf_Issachari Elder" Inherits="BaseIssachari">
     <part Name="Render" DisplayName="Issachari elder" RenderString="w" Tile="gnarf/iss3.png" ColorString="&amp;Y" DetailColor="R" />
+    <part Name="Description" Short="The patterns etched into =pronouns.possessive= face and hands speak to decades beneath the pitiless sun, but those stitched into =pronouns.possessive= shawl speak to millenia. =pronouns.Subjective= =verb:expect:afterpronoun= little to change." />
     <stat Name="Hitpoints" Value="35" />
     <stat Name="Level" Value="12" />
+    <skill Name="SingleWeaponFighting" />
+    <skill Name="SingleWeaponFighting_OpportuneAttacks" />
+    <skill Name="SingleWeaponFighting_PenetratingStrikes" />
     <skill Name="Cudgel" />
     <skill Name="Cudgel_Bludgeon" />
+    <skill Name="Cudgel_Conk" />
     <skill Name="Cudgel_Expertise" />
     <skill Name="Persuasion" />
     <skill Name="Persuasion_InspiringPresence" />
@@ -35,6 +44,7 @@
     <inventoryobject Blueprint="Gnarf_Issachari Rod" Number="1" />
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures" />
     <tag Name="DynamicObjectsTable:Saltdunes_Creatures:Weight" Value="1" />
+    <part Name="ConversationScript" ConversationID="Gnarf_Elder" />
   </object>
   <object Name="Gnarf_Issachari Rod" Inherits="BaseCudgel">
     <part Name="Render" DisplayName="{{issachari|Issachari}} walking stick" Tile="Items/sw_cudgel_11.bmp" ColorString="&amp;R" />
