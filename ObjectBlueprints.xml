@@ -50,8 +50,7 @@
     <part Name="Render" DisplayName="{{issachari|Issachari}} walking stick" Tile="Items/sw_cudgel_11.bmp" ColorString="&amp;R" />
     <part Name="MeleeWeapon" PenBonus="1" MaxStrengthBonus="3" BaseDamage="2d4" Skill="Cudgel" Stat="Strength" />
     <part Name="Commerce" Value="40" />
-    <!-- TODO: purple some prose? red steel walking stick with stun rod like effects -->
-    <part Name="Description" Short="" />
+    <part Name="Description" Short="The razor-clawed eons have long since stripped away this tall metal rod's chrome sheen, but the scored and salt-eaten metal beneath holds strong. Atop the staff, a much younger device shines a bright crimson boast: a shocking rebuke to any who dare approach its venerable mount." />
     <part Name="Metal" />
     <tag Name="Tier" Value="2" />
     <part Name="Physics" Weight="9" UsesTwoSlots="true" />    
